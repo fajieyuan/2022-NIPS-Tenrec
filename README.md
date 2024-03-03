@@ -353,6 +353,15 @@ sklearn 0.24.2
 
 python 3.6.8
 
+#### New Multimodal Recommendation Datasets
+
+**PixelRec**: https://github.com/westlake-repl/PixelRec
+
+**MicroLens(DeepMind Talk)**: https://github.com/westlake-repl/MicroLens
+  
+**NineRec(TPAMI)**: https://github.com/westlake-repl/NineRec 
+
+
 We refer to deppCTR, Recbole and DaisyRec for some model implementation in the CTR, SBR and Top-N tasks. 
 
 Recbole: https://recbole.io, DeepCTR: https://github.com/shenweichen/DeepCTR, DaisyRec: https://github.com/recsys-benchmark/DaisyRec-v2.0.
